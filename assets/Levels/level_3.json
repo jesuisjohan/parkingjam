@@ -1,0 +1,8 @@
+{
+    "boardSize": {
+        "rows": 30,
+        "columns": 18
+    },
+    "cars": [],
+    "blockers": []
+}
