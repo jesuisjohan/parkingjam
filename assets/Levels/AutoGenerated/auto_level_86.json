@@ -1,0 +1,317 @@
+{
+    "boardSize": {
+        "rows": 15,
+        "columns": 12
+    },
+    "cars": [
+        {
+            "type": "long-car",
+            "boardPosition": {
+                "row": 1,
+                "column": 1
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 1,
+                "column": 5
+            },
+            "isVertical": true
+        },
+        {
+            "type": "long-car",
+            "boardPosition": {
+                "row": 1,
+                "column": 8
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 3,
+                "column": 3
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 4,
+                "column": 5
+            },
+            "isVertical": true
+        },
+        {
+            "type": "medium-car",
+            "boardPosition": {
+                "row": 6,
+                "column": 2
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 6,
+                "column": 8
+            },
+            "isVertical": false
+        },
+        {
+            "type": "long-car",
+            "boardPosition": {
+                "row": 7,
+                "column": 4
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 8,
+                "column": 7
+            },
+            "isVertical": false
+        },
+        {
+            "type": "medium-car",
+            "boardPosition": {
+                "row": 10,
+                "column": 7
+            },
+            "isVertical": false
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 11,
+                "column": 1
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 12,
+                "column": 3
+            },
+            "isVertical": false
+        },
+        {
+            "type": "medium-car",
+            "boardPosition": {
+                "row": 12,
+                "column": 7
+            },
+            "isVertical": false
+        }
+    ],
+    "blockers": [
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 10,
+                "column": 6
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 6,
+                "column": 1
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 7
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 7
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 3,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 3,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 5,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 5,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 7
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 8
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 9
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 3
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 8,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 9,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 12,
+                "column": 11
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 13,
+                "column": 11
+            }
+        }
+    ]
+}

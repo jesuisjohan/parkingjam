@@ -1,0 +1,287 @@
+{
+    "boardSize": {
+        "rows": 15,
+        "columns": 11
+    },
+    "cars": [
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 1,
+                "column": 6
+            },
+            "isVertical": true
+        },
+        {
+            "type": "long-car",
+            "boardPosition": {
+                "row": 2,
+                "column": 1
+            },
+            "isVertical": false
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 4,
+                "column": 4
+            },
+            "isVertical": false
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 4,
+                "column": 7
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 6,
+                "column": 1
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 6,
+                "column": 4
+            },
+            "isVertical": false
+        },
+        {
+            "type": "medium-car",
+            "boardPosition": {
+                "row": 7,
+                "column": 7
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 8,
+                "column": 3
+            },
+            "isVertical": false
+        },
+        {
+            "type": "medium-car",
+            "boardPosition": {
+                "row": 10,
+                "column": 1
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 11,
+                "column": 3
+            },
+            "isVertical": true
+        },
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 11,
+                "column": 6
+            },
+            "isVertical": false
+        }
+    ],
+    "blockers": [
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 3
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 8
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 2
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 5
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 9
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 10,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 10,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 13,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 13,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 5
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 9
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 14,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 6
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 7
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 3,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 6,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 7,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 8,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 9,
+                "column": 10
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 11,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 12,
+                "column": 0
+            }
+        }
+    ]
+}

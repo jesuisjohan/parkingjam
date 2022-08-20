@@ -1,0 +1,116 @@
+{
+    "boardSize": {
+        "rows": 5,
+        "columns": 5
+    },
+    "cars": [
+        {
+            "type": "short-car",
+            "boardPosition": {
+                "row": 1,
+                "column": 1
+            },
+            "isVertical": true
+        }
+    ],
+    "blockers": [
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 3
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 1,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 2,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 3,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 3,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 0
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 3
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 4,
+                "column": 4
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 1
+            }
+        },
+        {
+            "type": "traffic-corn",
+            "boardPosition": {
+                "row": 0,
+                "column": 2
+            }
+        }
+    ]
+}
